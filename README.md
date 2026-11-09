@@ -21,3 +21,6 @@ Modes utilisés dans VS Code : **détaillé** = F11 (Step Into), **principal** =
 | 13 | `P2FixAnAppDotNetCode.Components` | `LanguageSelectorViewComponent` | `Invoke` | Principal | Sélecteur de langue de la mise en page. |
 
 `CartController` (ligne 15) et `OrderController` (ligne 17) ne sont **pas** atteints sur l'écran d'accueil. Leurs constructeurs ne s'exécutent qu'après un clic sur le panier, puis sur *Checkout*.
+
+
+Lien Drive: https://drive.google.com/drive/folders/1sHWDxUWF5UqC2hX0ElFSdqZ0q7yTUmQ0
